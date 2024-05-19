@@ -1,33 +1,6 @@
-<img src="https://imgur.com/a/t25yZSN.gif" />
-
 ## 🚀 Canal Vem Fazer
 
 Um sistema de tickets extremamente completo baseado em mensagens do WhatsApp, que permite multiusuários na mesma conta do WhatsApp. 
-<br /><br />
-
-## 🚀 Canal Vem Fazer
-
-<img src= "https://imgur.com/a/ALcVb3e.gif" style="height: 60px;" />
-
-Um sistema de tickets extremamente completo baseado em mensagens do WhatsApp, que permite multiusuários na mesma conta do WhatsApp. 
-<br /><br />
-
-## 📌 Integrações
-
-<img src="https://imgur.com/a/Ssbgqg3.gif" />
-
-<br /><br />
-
-## 🔧 Requisitos
-
-<img src= "https://imgur.com/elP5DRm.gif" style="height: 60px;" />
-
-<nav>
-  <ul>
-    <li>Subdomínio para Frontend: https://app.nomedoseudominio.com</li>
-    <li>Subdomínio para API (Backend): https://api.nomedoseudominio.com</li>
-  </ul>
-</nav>
 <br /><br />
 
 <br /><br />
