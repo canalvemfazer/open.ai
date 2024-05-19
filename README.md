@@ -3,6 +3,9 @@
 <h1 align="center">Um sistema de tickets extremamente completo baseado em mensagens do WhatsApp.</h1> 
 
 <a href="https://www.youtube.com/@vemfazer" target="_blank">Canal Vem Fazer</a>
+<nav>
+  <ul>
+    <li><a href="https://github.com/canove/whaticket-community" target="_blank">Cassio Santos no GitHub</a></li>
 
 <br /><br />
 ## ✅ Recursos
