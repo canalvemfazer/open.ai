@@ -17,7 +17,7 @@ cd && cd ./install && sudo ./install_instancia
 ```
 
 
-<img src="https://imgur.com/a/t25yZSN" />
+<img src="https://imgur.com/a/t25yZSN.gif" />
 
 ## 🚀 Canal Vem Fazer
 
@@ -32,7 +32,7 @@ Um sistema de tickets extremamente completo baseado em mensagens do WhatsApp, qu
 
 ## 🔧 Requisitos
 
-<img src= "https://imgur.com/elP5DRm" style="height: 60px;" />
+<img src= "https://imgur.com/elP5DRm.gif" style="height: 60px;" />
 
 <nav>
   <ul>
