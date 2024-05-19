@@ -1,4 +1,4 @@
-## 🚀 Canal Vem Fazer
+<h1 align="center">🚀 Canal Vem Fazer</h1>
 
 Um sistema de tickets extremamente completo baseado em mensagens do WhatsApp, que permite multiusuários na mesma conta do WhatsApp. 
 <br /><br />
