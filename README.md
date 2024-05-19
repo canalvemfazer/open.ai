@@ -2,7 +2,6 @@
 
 Um sistema de tickets extremamente completo baseado em mensagens do WhatsApp, que permite multiusuários na mesma conta do WhatsApp. 
 <br /><br />
-
 <br /><br />
 ## ✅ Recursos
 
