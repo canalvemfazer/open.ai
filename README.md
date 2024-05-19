@@ -40,10 +40,8 @@ Um sistema de tickets extremamente completo baseado em mensagens do WhatsApp, qu
     <li>Subdomínio para API (Backend): https://api.nomedoseudominio.com</li>
   </ul>
 </nav>
-
 <br /><br />
 <br /><br />
-
 ## ✅ Recursos
 
 🟢 Atendentes  
