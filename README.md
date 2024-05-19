@@ -1,6 +1,10 @@
 <h1 align="center">🚀 Canal Vem Fazer</h1>
 
-<h1 align="center">Um sistema de tickets extremamente completo baseado em mensagens do WhatsApp, que permite multiusuários na mesma conta do WhatsApp.</h1> 
+<h1 align="center">Um sistema de tickets extremamente completo baseado em mensagens do WhatsApp.</h1> 
+
+<a href="https://www.youtube.com/@vemfazer" target="_blank">Canal Vem Fazer</a>
+
+<h1 align="center">https://www.youtube.com/@vemfazer</h1>
 
 <br /><br />
 ## ✅ Recursos
