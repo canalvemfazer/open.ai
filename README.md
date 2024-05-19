@@ -1,21 +1,9 @@
-<h1 align="center">Whaticket Baileys comunidade |Canal Vem Fazer</h1>
+<img src="https://imgur.com/a/t25yZSN" />
 
-<h1 align="center">https://www.youtube.com/@vemfazer</h1>
+## 🚀 Canal Vem Fazer
 
-
-## Vamos instalar?
-
-FAZENDO DOWNLOAD DO INSTALADOR & INICIANDO A PRIMEIRA INSTALAÇÃO (USAR SOMENTE PARA PRIMEIRA INSTALAÇÃO):
-
-```bash
-sudo apt install -y git && git clone https://github.com/canalvemfazer/instalador install && sudo chmod -R 777 ./install && cd ./install && sudo ./install_primaria
-```
-
-ACESSANDO DIRETORIO DO INSTALADOR & INICIANDO INSTALAÇÕES ADICIONAIS (USAR ESTE COMANDO PARA SEGUNDA OU MAIS INSTALAÇÃO:
-```bash
-cd && cd ./install && sudo ./install_instancia
-```
-
+Um sistema de tickets extremamente completo baseado em mensagens do WhatsApp, que permite multiusuários na mesma conta do WhatsApp. 
+<br /><br />
 
 ## 🚀 Canal Vem Fazer
 
