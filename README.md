@@ -103,4 +103,4 @@ Codigo baseado no Whaticket Community de:
 
 ## 📭 Suporte e Contato
 
-Entre em contato através do <a href="https://wa.me/5581996277285?text=Bem%20vindo%20ao%20Equipechat." target="_blank">Whatsapp</a> ou <a href="https://pay.kiwify.com.br/P08ZZnY" target="_blank">e-mail</a>.
+Entre em contato através do <a href="https://wa.me/5581996277285?text=Bem%20vindo%20ao%20Equipechat." target="_blank">Whatsapp</a> ou <a href="https://pay.kiwify.com.br/P08ZZnY" target="_blank">suporte/a>.
