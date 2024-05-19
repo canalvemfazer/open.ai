@@ -19,6 +19,8 @@ cd && cd ./install && sudo ./install_instancia
 
 ## 🚀 Canal Vem Fazer
 
+<img src= "https://imgur.com/elP5DRm.gif" style="height: 60px;" />
+
 Um sistema de tickets extremamente completo baseado em mensagens do WhatsApp, que permite multiusuários na mesma conta do WhatsApp. 
 <br /><br />
 
