@@ -32,7 +32,7 @@ Um sistema de tickets extremamente completo baseado em mensagens do WhatsApp, qu
 
 ## 🔧 Requisitos
 
-<img src="https://ibb.co/NjnZL8q" style="height: 60px;" />
+<img src= https://ibb.co/NjnZL8q style="height: 60px;" />
 
 <nav>
   <ul>
