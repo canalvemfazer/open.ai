@@ -17,30 +17,95 @@ cd && cd ./install && sudo ./install_instancia
 ```
 
 
-## Para Instalação você precisa:
+<img src="https://imgur.com/a/t25yZSN" />
 
-Uma VPS Ubuntu 20.04 (Configuração recomendada: 3 VCPU's + 4 GB RAM)
+## 🚀 Canal Vem Fazer
 
-Subdominio para Frontend - Seu frontend
+Um sistema de tickets extremamente completo baseado em mensagens do WhatsApp, que permite multiusuários na mesma conta do WhatsApp. 
+<br /><br />
 
-Subdominio para API -Seu backend
+## 📌 Integrações
 
-Email válido para certificação SSL
+<img src="https://imgur.com/a/rWjg8FT" />
 
-## Consultoria e contato:
+<br /><br />
 
-    CANAL VEM FAZER LTDA
+## 🔧 Requisitos
 
-    Fone: 81 99627-7285(WhatsApp)
+<img src="https://imgur.com/a/M5eK0V7" style="height: 60px;" />
+
+<nav>
+  <ul>
+    <li>Subdomínio para Frontend: https://app.nomedoseudominio.com</li>
+    <li>Subdomínio para API (Backend): https://api.nomedoseudominio.com</li>
+  </ul>
+</nav>
+
+<br /><br />
+
+## 💿 Instalação
+
+```bash
+  apt update && apt upgrade -y && apt install sudo git -y && sudo rm -rf WhaticketPlus && sudo git clone https://github.com/DEV7Kadu/WhaticketPlus && cd WhaticketPlus && sudo chmod +x ./whaticketplus && ./whaticketplus
+```
+
+<br /><br />
+
+## ✅ Recursos
+
+🟢 Atendentes  
+🟢 Modo Claro/Escuro    
+🟢 Cores Personalizadas  
+🟢 Logotipo/Marca Própria  
+🟢 Aplicativo PWA  
+🟢 Domínio Próprio  
+🟢 Cores Personalizadas  
+🟢 Logotipo / Marca Própria  
+🟢 Dashboard  
+🟢 Estatísticas  
+🟢 Mensagens Agendadas com Anexo  
+🟢 Respostas Rápidas com Anexo  
+🟢 Agendamento Recorrente  
+🟢 Campanhas Recorrentes  
+🟢 Chat Interno  
+🟢 Tarefas  
+🟢 Campanhas  
+🟢 Áudio Gravado na Hora  
+🟢 Setores & Filas  
+
+<br /><br />
 
 
-## Se o conteúdo te ajudou ajude este projeto:
-(Nos ajude a trazer novos conteúdos todos os dias!)
+## ⚠️ Isenção de Responsabilidade
 
+Este projeto não é afiliado, associado, autorizado, endossado ou de qualquer forma oficialmente conectado ao WhatsApp ou a qualquer uma de suas subsidiárias ou afiliadas. O site oficial do WhatsApp pode ser encontrado em https://whatsapp.com. “WhatsApp”, bem como nomes, marcas, emblemas e imagens relacionados são marcas registradas de seus respectivos proprietários.
 
-Copia e cola:
+<br /><br />
 
-    00020126580014BR.GOV.BCB.PIX01362e05806e-d1b7-4eb7-b1db-f02009c7bc015204000053039865802BR592552.262.410 RAPHAEL BATIST6009SAO PAULO61080540900062250521IteWKSyU6xhcUBH1lncfj63040504
+## 📍 Github
 
+Codigo baseado no Whaticket Community de:
+<nav>
+  <ul>
+    <li><a href="https://github.com/canove/whaticket-community" target="_blank">Cassio Santos no GitHub</a></li>
 
+<br /><br />
 
+## 🛠️ Com as seguintes Ferramentas de Apoio:
+<nav>
+    <li><a href="https://github.com/WhiskeySockets/Baileys" target="_blank">Baileys - WhatsApp Web API</a></li>
+    <li><a href="https://github.com/redis/redis" target="_blank">Redis</a></li>
+    <li><a href="https://github.com/postgres/postgres" target="_blank">PostgreSQL</a></li>
+    <li><a href="https://github.com/docker" target="_blank">Docker</a></li>
+    <li><a href="https://github.com/nginx/nginx" target="_blank">Nginx</a></li>
+    <li><a href="https://github.com/nodejs/node" target="_blank">Node</a></li>
+    <li><a href="https://github.com/Unitech/pm2" target="_blank">PM2</a></li>
+    <li><a href="https://github.com/certbot/certbot" target="_blank">Certbot</a></li>
+  </ul>
+</nav>
+
+<br /><br />
+
+## 📭 Suporte e Contato
+
+Entre em contato através do <a href="https://wa.me/5581996277285?text=Bem%20vindo%20ao%20Equipechat." target="_blank">Whatsapp</a> ou <a href="https://pay.kiwify.com.br/P08ZZnY" target="_blank">e-mail</a>.
