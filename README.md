@@ -26,7 +26,7 @@ Um sistema de tickets extremamente completo baseado em mensagens do WhatsApp, qu
 
 ## 📌 Integrações
 
-<img src="https://imgur.com/a/RqUjnNp.gif" />
+<img src="https://imgur.com/a/RqUjnNp" />
 
 <br /><br />
 
