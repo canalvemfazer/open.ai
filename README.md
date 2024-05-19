@@ -42,8 +42,6 @@ Um sistema de tickets extremamente completo baseado em mensagens do WhatsApp, qu
 </nav>
 
 <br /><br />
-
-
 <br /><br />
 
 ## ✅ Recursos
