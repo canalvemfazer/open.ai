@@ -1,4 +1,4 @@
-<img src="https://imgur.com/a/t25yZSN" />
+<img src="https://imgur.com/a/t25yZSN.gif" />
 
 ## 🚀 Canal Vem Fazer
 
