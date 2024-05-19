@@ -4,8 +4,6 @@
 
 <a href="https://www.youtube.com/@vemfazer" target="_blank">Canal Vem Fazer</a>
 
-<h1 align="center">https://www.youtube.com/@vemfazer</h1>
-
 <br /><br />
 ## ✅ Recursos
 
